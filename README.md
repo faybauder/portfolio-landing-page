@@ -1,9 +1,9 @@
 # portfolio-landing-page
 # _{portfolio-landing-page}_
 
-#### By _**{Fay Bauder}**_
+#### By _**Fay Bauder**_
 
-#### _{This is a webpage that is a portfolio of Fay Bauder and their professional and personal life}_
+#### _This is a webpage that is a portfolio of Fay Bauder and their professional and personal life_
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-_{This is a webpage made to be a profession and personal portfolio of Fay Bauder. it includes photos of them and their business, and well as descriptions of their work, interests, and education}_
+_This is a webpage made to be a profession and personal portfolio of Fay Bauder. it includes photos of them and their business, and well as descriptions of their work, interests, and education_
 
 ## Setup/Installation Requirements
 
@@ -30,7 +30,7 @@ _{This is a webpage made to be a profession and personal portfolio of Fay Bauder
 
 ## License
 
-_{Please contact me at fay.bauder@gmail.com if you run into any issues or have any questions}_
+_Please contact me at fay.bauder@gmail.com if you run into any issues or have any questions_
 
 MIT License
 
