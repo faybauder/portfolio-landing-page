@@ -27,6 +27,18 @@
   display: block;
 }
 
+.about {
+  font-size: 100%;
+}
+
+.projects {
+  font-size: 120%;
+}
+
+.history {
+  font-size:250%;
+}
+
 .projects2 {
   float: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
