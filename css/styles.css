@@ -13,12 +13,13 @@
 }
 
 .aboutme {
+  float: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: rgb(121, 129, 129);
-  float: left;
   text-align: left;
   color: black;
-  width: 30%;
+  width: 25%;
+  height: 20%;
   padding: 50px;
   border: solid black;
   margin: auto;
@@ -27,12 +28,13 @@
 }
 
 .projects2 {
+  float: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: rgb(121, 129, 129);
-  float: left;
   text-align: left;
   color: black;
-  width: 30%;
+  width: 25%;
+  height: 20%;
   padding: 50px;
   border: solid black;
   margin-bottom: 10px;
@@ -40,17 +42,20 @@
 }
 
 .me {
-  margin-top: 100px;
+  margin-top: 10px;
   float: right;
-  height: 800px;
-  width: 200px;
+  height: 80px;
+  width: 20px;
 }
 
 .box3 {
   float: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
   background-color: rgb(94, 109, 101);
   text-align: center;
   width: 20%;
+  height: 20%;
   padding: 50px;
   border: solid black;
   margin-bottom: 30px;
@@ -59,6 +64,7 @@
 
 .sidebar {
   float: right;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: rgb(94, 109, 101);
   text-align: center;
   width: 20%;
@@ -70,7 +76,7 @@
 
 img {
   margin-top: 100px;
-  float: left;
+  float: right;
   border-style: hidden;
   height: 200px;
   width: 180px;
