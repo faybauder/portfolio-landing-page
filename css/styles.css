@@ -12,13 +12,28 @@
   display: block;
 }
 
+.me {
+    margin-top: 100px;
+    float: right;
+    height: 800px;
+    width: 200px;
+  }
+
+
 .sidebar {
   float: right;
   background-color: rgb(94, 109, 101);
   text-align: center;
-  width: 18%;
-  padding: 30px;
+  width: 40%;
+  padding: 50px;
   border: solid black;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   display: block;
+}
+
+img {
+  margin-top: 100px;
+  float: left;
+  border-style: hidden;
+  height: 200px;
 }
