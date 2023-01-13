@@ -18,8 +18,8 @@
   background-color: rgb(121, 129, 129);
   text-align: left;
   color: black;
-  width: 25%;
-  height: 20%;
+  height: 400px;
+  width: 350px;
   padding: 50px;
   border: solid black;
   margin: auto;
@@ -33,19 +33,12 @@
   background-color: rgb(121, 129, 129);
   text-align: left;
   color: black;
-  width: 25%;
-  height: 20%;
+  height: 400px;
+  width: 350px;
   padding: 50px;
   border: solid black;
   margin-bottom: 10px;
   display: block;
-}
-
-.me {
-  margin-top: 10px;
-  float: right;
-  height: 80px;
-  width: 20px;
 }
 
 .box3 {
@@ -54,9 +47,7 @@
   font-size: small;
   background-color: rgb(94, 109, 101);
   text-align: center;
-  width: 20%;
-  height: 20%;
-  padding: 50px;
+  padding: 60px;
   border: solid black;
   margin-bottom: 30px;
   display: block;
@@ -67,17 +58,18 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: rgb(94, 109, 101);
   text-align: center;
-  width: 20%;
-  padding: 50px;
+  margin-top: 130px;
+  width: 10%;
+  height: 60%;
   border: solid black;
-  margin-bottom: 30px;
   display: block;
 }
 
 img {
-  margin-top: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   float: right;
   border-style: hidden;
-  height: 200px;
-  width: 180px;
+  height: 400px;
+  width: 540px;
 }
