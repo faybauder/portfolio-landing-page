@@ -12,19 +12,56 @@
   display: block;
 }
 
-.me {
-    margin-top: 100px;
-    float: right;
-    height: 800px;
-    width: 200px;
-  }
+.aboutme {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(121, 129, 129);
+  float: left;
+  text-align: left;
+  color: black;
+  width: 30%;
+  padding: 50px;
+  border: solid black;
+  margin: auto;
+  margin-bottom: 10px;
+  display: block;
+}
 
+.projects2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(121, 129, 129);
+  float: left;
+  text-align: left;
+  color: black;
+  width: 30%;
+  padding: 50px;
+  border: solid black;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.me {
+  margin-top: 100px;
+  float: right;
+  height: 800px;
+  width: 200px;
+}
+
+.box3 {
+  float: left;
+  background-color: rgb(94, 109, 101);
+  text-align: center;
+  width: 20%;
+  padding: 50px;
+  border: solid black;
+  margin-bottom: 30px;
+  display: block;
+}
 
 .sidebar {
   float: right;
   background-color: rgb(94, 109, 101);
   text-align: center;
-  width: 40%;
+  width: 20%;
   padding: 50px;
   border: solid black;
   margin-bottom: 30px;
@@ -36,4 +73,5 @@ img {
   float: left;
   border-style: hidden;
   height: 200px;
+  width: 180px;
 }
