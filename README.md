@@ -1,5 +1,5 @@
 # portfolio-landing-page
-# _{portfolio-landing-page}_
+# _portfolio-landing-page_
 
 #### By _**Fay Bauder**_
 
